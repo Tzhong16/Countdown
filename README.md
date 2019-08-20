@@ -2,7 +2,7 @@
 
 Countdown is a IOS APP buit by React Native
 
-![alt text](./assets/countdown.png =200x400 )
+![alt text](./assets/countdown.png){height=250px}
 
 ## Tech:
 
