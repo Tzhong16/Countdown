@@ -2,8 +2,7 @@
 
 Countdown is a IOS APP buit by React Native
 
-<!-- ![alt text](./assets/countdown.png =200x300) -->
-<img src="./assets/countdown.png" alt="countdown" width="200" height="300"/>
+<img src="./assets/countdown.png" alt="countdown" width="200" height="400"/>
 
 ## Tech:
 
