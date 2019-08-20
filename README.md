@@ -6,7 +6,7 @@ Countdown is a IOS APP buit by React Native
 
 ## Tech:
 
-- React Navtive
+- React Native
 - react-native-action-button
 - react-native-modal-datetime-picker
 - prop-types
