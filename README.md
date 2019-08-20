@@ -1,6 +1,6 @@
 # Countdown IOS APP
 
-Countdown is a IOS APP buit by React Native
+Countdown is a IOS APP built by React Native
 
 <img src="./assets/countdown.png" alt="countdown" width="200" height="400"/>
 
